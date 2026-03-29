@@ -4,6 +4,7 @@
   
   <name>Recube Launcher</name>
   <summary>Unofficial Launcher for NationsGlory</summary>
+  <summary xml:lang="fr">Launcher non officiel pour NationsGlory</summary>
 
   <developer id="fr.nationsglory">
     <name>WebNations</name>
@@ -13,12 +14,18 @@
   <project_license>LicenseRef-proprietary=https://nationsglory.fr/cgu</project_license>
   
   <description>
-     <p>**This is a community package of NationsGlory and not officially supported by WebNations and NationsGlory.**</p>
-     <p> 
-        Explore a universe where the creation and evolution of nations intersect. Build grandiose cities, forge alliances, and plunge into epic wars on Earth, the Moon, and even Mars.
+    <p>**This is a community package of NationsGlory and is not officially supported by WebNations and NationsGlory.**</p>
+    <p xml:lang="fr">**Ceci est une version non officielle de NationsGlory et n'est pas officiellement supportée par WebNations et NationsGlory.**'</p>
+    <p>
+      Explore a universe where the creation and evolution of nations intersect. Build grandiose cities, forge alliances, and plunge into epic wars on Earth, the Moon, and even Mars.
 
-        Get ready for a limitless gaming experience on NationsGlory, where your legend begins.
-      </p>
+      Get ready for a limitless gaming experience on NationsGlory, where your legend begins.
+    </p>
+    <p xml:lang="fr">
+      Explore un univers où la création et l'évolution des nations se croisent. Bâtis des cités grandioses, forge des alliances, et plonge dans des guerres épiques sur Terre, la Lune, et même Mars.
+
+      Prépare-toi à une expérience de jeu sans limites sur NationsGlory, où ta légende débute.
+    </p>
   </description>
 
   <branding>
@@ -37,20 +44,20 @@
   </content_rating>
 
   <url type="homepage">https://nationsglory.fr/</url>
-  <url type="bugtracker">https://github.com/flathub/fr.NationsGlory.Launcher/issues</url>
+  <url type="bugtracker">https://github.com/flathub/fr.nationsglory.launcher/issues</url>
   
   <launchable type="desktop-id">fr.nationsglory.launcher.desktop</launchable>
   <screenshots>
     <screenshot type="default">
-      <image>https://forgejo.maledict.me/Maledict/NationsGlory/raw/commit/6be6d53787e918026fd392e47e1a54381ee62296/screenshots/home.png</image>
+      <image>https://raw.githubusercontent.com/flathub/fr.nationsglory.launcher/b871d68c5a697292c117c17225d4d09fe837d30d/screenshots/home.png</image>
       <caption>Homepage</caption>
     </screenshot>
     <screenshot>
-      <image>https://forgejo.maledict.me/Maledict/NationsGlory/raw/commit/6be6d53787e918026fd392e47e1a54381ee62296/screenshots/game.png</image>
+      <image>https://raw.githubusercontent.com/flathub/fr.nationsglory.launcher/b871d68c5a697292c117c17225d4d09fe837d30d/screenshots/game.png</image>
       <caption>Game Menu</caption>
     </screenshot>
     <screenshot>
-      <image>https://forgejo.maledict.me/Maledict/NationsGlory/raw/commit/6be6d53787e918026fd392e47e1a54381ee62296/screenshots/settings.png</image>
+      <image>https://raw.githubusercontent.com/flathub/fr.nationsglory.launcher/b871d68c5a697292c117c17225d4d09fe837d30d/screenshots/settings.png</image>
       <caption>Launcher settings</caption>
     </screenshot>
   </screenshots>
@@ -61,7 +68,7 @@
   </requires>
 
   <releases>
-    <release version="5.0.105" date="2025-03-24">
+    <release version="5.0.105" date="2026-03-24">
      <description>
        <p>Updated NationsGlory Launcher to 5.0.105</p>
      </description>
